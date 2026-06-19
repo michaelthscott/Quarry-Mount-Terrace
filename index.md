@@ -210,7 +210,7 @@ the uncertainty of any quantity; a careful analysis has shown that the
 two uncertainties delta p and delta q are related so that their product
 is never less than Plank\'s constant.'
 
-![Max Planck](Max-Planck.jpeg)
+![Max Planck](Max-Planck.jpg)
 
 Call Mister Plank. Call Mister Plank. Call Mister Plank\... Fading echo
 down the corridors of the human archive. Mister Plank appears amongst
@@ -672,7 +672,7 @@ hallway screaming: "The Management! I want to see the Management, right
 here and now!" -- just thought I'd make it known. Old words and not my
 own.)
 
-![Chambers](Chambers.png)
+![Chambers dictionary](Chambers.png)
 
 By the way which direction did you say déjà vu travels in? You didn\'t
 -- thought as much, funny how these little things slip by: Mr Chambers,
@@ -836,19 +836,13 @@ All living under the management's influential phrase: Human On Planet.
 The accepted definition made from noises from the throat and stored in
 bold black type across the front of every newspaper ever printed.
 
-Al1 a fiction we write with ourselves on a spherical tape with one hell
+All a fiction we write with ourselves on a spherical tape with one hell
 of a lot of recording heads -- get the picture?
 
-![Max Planck](Max-Planck.jpeg)
+> Grandpa, The Beano,
 
-Grandpa, The Beano,
+> The Paris Review, The Art of Fiction No. 36, Issue no.35 Fall 1965\
+> William Burroughs interviewed by Conrad Knickerbocker.\
+> "The nasty sort of power: white junk, I call it --- rightness; they're right, right, right --- and if they lost that power, they would suffer excruciating withdrawal symptoms."
 
-The Paris Review, The Art of Fiction No. 36, Issue no.35 Fall 1965
-
-William Burroughs interviewed by Conrad Knickerbocker.
-
-["]{dir="rtl"}The nasty sort of power: white junk, I call it ---
-rightness; they[']{dir="rtl"}re right, right, right --- and if they lost
-that power, they would suffer excruciating withdrawal symptoms."
-
-The Roads to Freedom, BBC Two, 22 September - 27 December 1970.
+> The Roads to Freedom, BBC Two, 22 September - 27 December 1970.
