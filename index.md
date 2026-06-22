@@ -1,6 +1,6 @@
 
 
-![19 Quarry Mount Terrace](19-Quarry-Mount-Terrace.png)
+![19 Quarry Mount Terrace](images/19-Quarry-Mount-Terrace.png)
 
 # Quarry Mount Terrace
 
@@ -51,7 +51,7 @@ something was happening, but what it was I can\'t be certain. My name is
 M. T. Fiction, I just fill in the details. I must go, I perhaps have an
 appointment.
 
-![Smiths Sectric](Smiths-Sectric.jpeg)
+![Smiths Sectric](images/Smiths-Sectric.jpeg)
 
 The Manager with a cigarette tight between his fingers, \'Come on lad,
 Play The Game!\' He wants me in on time. Mr Smiths Sectric knows what
@@ -210,7 +210,7 @@ the uncertainty of any quantity; a careful analysis has shown that the
 two uncertainties delta p and delta q are related so that their product
 is never less than Plank\'s constant.\'
 
-![Max Planck](Max-Planck.jpg)
+![Max Planck](images/Max-Planck.jpg)
 
 Call Mister Plank. Call Mister Plank. Call Mister Plank\... Fading echo
 down the corridors of the human archive. Mister Plank appears amongst
@@ -295,7 +295,7 @@ delta q and let it go at that.\' I leave these words for you as they
 appear through \'imperfect\' by flaws and omissions like spilt ink from a
 leaky pen.
 
-![Flake](Flake.jpg)
+![Flake](images/Flake.jpg)
 
 Let demonstrate the teacher\'s product -- walking along a street of this
 present town, traders line the pavement, offering with an apologetic
@@ -672,7 +672,7 @@ hallway screaming: "The Management! I want to see the Management, right
 here and now!" -- just thought I'd make it known. Old words and not my
 own.)
 
-![Chambers dictionary](Chambers.png)
+![Chambers dictionary](images/Chambers.png)
 
 By the way which direction did you say déjà vu travels in? You didn\'t
 -- thought as much, funny how these little things slip by: Mr Chambers,
@@ -758,7 +758,7 @@ you Them and Their Influence, and smile saying: 'don\'t listen to them
 man, their Word is no more than the whining of stupid empty bullies\...
 think instead of the wind on your face!'
 
-![Charlie Grunt](Charlie-Grunt.png)
+![Charlie Grunt](images/Charlie-Grunt.png)
 
 He is closer to the part of you you like to imagine as a fiction writer,
 sitting in the back seat, and he tends at times to show a similar
