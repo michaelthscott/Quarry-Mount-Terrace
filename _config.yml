@@ -1,5 +1,5 @@
 title: Quarry Mount Terrace
 description: A text written in Leeds in 1975
-theme: jekyll-theme-poole
+theme: minima
 extra_css:
   - /assets/css/custom.css
