@@ -2,8 +2,6 @@
 
 ![19 Quarry Mount Terrace](images/19-Quarry-Mount-Terrace.png)
 
-# Quarry Mount Terrace
-
 Wind on my face, close all around. Eyes towards the evening sun. A
 beautiful girl\'s face offers the word angel. Full fleshy lipped girl
 face, obscene female greed exuded like atmospheric puss from sick
